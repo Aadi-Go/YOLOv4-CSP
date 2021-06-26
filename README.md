@@ -12,4 +12,4 @@ For running on Local System: pip install gdown
 
 All the files required for the Inference are directly given in the Notebook on a run-to-download basis.
 If you want to download them manually follow the link:
-[YOLOv4-CSP.weights]([MIT](https://drive.google.com/file/d/1TdKvDQb2QpP4EhOIyks8kgT8dgI1iOWT/view?usp=sharing))
+[YOLOv4-CSP.weights](https://drive.google.com/file/d/1TdKvDQb2QpP4EhOIyks8kgT8dgI1iOWT/view?usp=sharing)
